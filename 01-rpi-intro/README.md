@@ -71,6 +71,15 @@
 ![touch ssh](images/touchssh.png)
 ### - Create a file with the name 'ssh'
 ### - Do NOT give the file an extension such as .txt or .exe
+### - Create another file with the name 'wpa_supplicant.conf'
+### - Open up this file in your code editor of choice to enter your Wi-Fi credentials
+![wpa supplicant config](images/wpasupplicant.png)
+### - Don't forget to SAVE your file before exiting your code editor!!!
+<br><br><br><br><br>
+# Install SD card / Fire it up!
+### - Insert the SD card into the Raspberry Pi
+### - Wait for the initial files to unpack and for the device to configure itself
+### - We'll look at the ip addresses of the devices as they connect to our test network so that we can use them for SSH
 
 
 
