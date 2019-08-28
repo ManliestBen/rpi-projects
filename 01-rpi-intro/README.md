@@ -80,13 +80,45 @@
 ### - Insert the SD card into the Raspberry Pi
 ### - Wait for the initial files to unpack and for the device to configure itself
 ### - We'll look at the ip addresses of the devices as they connect to our test network so that we can use them for SSH
+<br><br><br><br><br>
+# SSH into the Pi
+![ssh command](images/ssh.png)
+### - The default username for the device is 'pi'
+### - The default password for the device is 'raspberry'
+### - Congrats!  You're logged into your device!
+<br><br><br><br><br>
+# Changing default settings
+![raspi-config](images/raspiconfig.png)
+### - Access the configuration menu by typing 'sudo raspi-config'
+### - Change the device name
+### - Change the default password
+### - This is also where you enable GPIO (General Purpose Input Output) pins, the camera, and other features on the device
+### - If neccesary, change your Wi-Fi config 
+<br><br><br><br><br>
+# Update the device
+![update](images/update.png)
+![upgrade](images/upgrade.png)
+### - To check for updates and update your device, type 'sudo apt-get update' and then 'sudo apt-get upgrade'
+### - Congrats!  You're ready to start using your device!
+<br><br><br><br><br>
+# What to do now?
+## Here are some fun options:
+### [Install Kodi](https://www.makeuseof.com/tag/install-kodi-raspbian-media-center/) - Home Media Center
+
+### [Install RetroPie](https://retropie.org.uk/docs/Manual-Installation/) - Retro video game emulator
+
+### - Explore!  There are a BAZILLION different guides and tutorials all over the web that outline everything from simple code to make an LED light up, to building robots.
 
 
+# Ideas for next week
+## - Demo ideas?
+### - GPIO demo
+### - Camera demo
+### - Utilize the Slack channel and we can discuss ideas
 
+<br><br><br><br><br>
 
-
-
-## Resources:
+# Resources:
 ### - [raspberrypi.org](https://www.raspberrypi.org)
 ### - [raspberrypi.org - New device setup walkthrough](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
 ### - [raspberrypi.org - Downloads page](https://www.raspberrypi.org/downloads/)
