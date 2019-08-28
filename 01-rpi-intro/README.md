@@ -123,4 +123,3 @@
 ### - [raspberrypi.org - New device setup walkthrough](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
 ### - [raspberrypi.org - Downloads page](https://www.raspberrypi.org/downloads/)
 ### - [raspberrypi.org - Getting started with soldering](https://projects.raspberrypi.org/en/projects/getting-started-with-soldering)
-### - 
